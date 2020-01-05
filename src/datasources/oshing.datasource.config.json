@@ -1,0 +1,11 @@
+{
+  "name": "oshing",
+  "connector": "mongodb",
+  "url": "mongodb://localhost/oshing",
+  "host": "localhost",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": "oshing",
+  "useNewUrlParser": true
+}
